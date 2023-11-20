@@ -1,5 +1,5 @@
 <fable>
-	<page background="bg.png" x="600" y = >
+	<page background="bg.png">
         <agent img="bg.png" x="4" y="2000" width="500" height="100" />
     </page>
 </fable>

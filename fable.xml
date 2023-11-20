@@ -1,5 +1,6 @@
 <fable>
-	<page background="bg.png">
-        <agent img="bg.png" x="4" y="2000" width="500" height="100" />
+	<page background="noite_dark.png".png">
+        <agent img="noite_dark.png" x="500" y="500" width="500" height="5
+            00" />
     </page>
 </fable>
